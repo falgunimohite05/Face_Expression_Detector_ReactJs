@@ -8,7 +8,7 @@ This project is a React-based web application that uses `face-api.js` to:
 - Allow toggling detection and expression recognition
 - Show the count of detected faces
 
-- ## 🖥️ Live Features
+ ## 🖥️ Live Features
 
 ✅ Live Video Feed  
 ✅ Face Detection  
