@@ -20,7 +20,7 @@ This project is a React-based web application that uses `face-api.js` to:
 ✅ Displays total face count and top expression
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App]
 
